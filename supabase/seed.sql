@@ -1,0 +1,2 @@
+-- Seed data placeholder. Mirrors src/services/mock/*.mock.ts for local dev
+-- once Supabase migrations (Engineering Blueprint §7) are applied.
